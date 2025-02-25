@@ -1,7 +1,7 @@
 # Distributed Database Internals Course Materials
 
 ![CC BY-SY 4.0 logo](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
-![DOI](https://zenodo.org/badge/938955831.svg)](https://zenodo.org/badge/latestdoi/938955831)
+[![DOI](https://zenodo.org/badge/938955831.svg)](https://zenodo.org/badge/latestdoi/938955831)
 
 Course materials for the graduate course ``Distributed Database Internals,``
 which focuses on understanding the storage and networking layers of databases
