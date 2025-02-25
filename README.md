@@ -1,6 +1,6 @@
 # Distributed Database Internals Course Materials
 
-![CC BY-SY 4.0 logo](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+![CC BY-SY 4.0 logo](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
 
 Course materials for the graduate course ``Distributed Database Internals,``
 which focuses on understanding the storage and networking layers of databases
