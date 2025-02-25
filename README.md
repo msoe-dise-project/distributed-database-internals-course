@@ -26,7 +26,7 @@ After completing this course, students will be able to:
 
 * Storage Engines
     * L1: Understand the details of on-disk data structures such as B-trees and log-structured merge (LSM) trees in sufficient depth to explain the theoretical and practical performance of associated operations (e.g., insert, update, search, and read)
-    * L2: Explain fundamental tradeoffs in read performance, write performance, and space utilization of data structures in accordance with the read-update-modify (RUM) conjecture\cite{Athanassoulis2016-zy}
+    * L2: Explain fundamental tradeoffs in read performance, write performance, and space utilization of data structures in accordance with the read-update-modify (RUM) conjecture
 * Network Services and Concurrency
     * L3: Use non-blocking I/O patterns to implement a network server capable of serving multiple connections concurrently
     * L4: Explain how reader-writer and writer-writer conflicts manifest in databases executing multiple operations concurrently
